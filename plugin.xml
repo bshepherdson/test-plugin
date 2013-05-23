@@ -9,5 +9,5 @@
 
   <name>Junk Plugin</name>
 
-  <asset src="foo.html" />
+  <asset src="foo.html" target="foo.html" />
 </plugin>
